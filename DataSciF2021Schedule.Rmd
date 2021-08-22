@@ -1,0 +1,11 @@
+---
+title: "Schedule"
+output:
+  html_document: default
+---
+
+The class will cover a series of modules, each of which may be covered in more than or less than a single class period. My notes for these modules will be updated regularly [here](https://kevinlanning.github.io/DataScienceF2021/).
+
+<iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/1PV8xfHhd_cBTBfSotUXpKa2ctju_X_BmGru1IG_7dgc/edit?usp=sharing">
+
+</iframe>
