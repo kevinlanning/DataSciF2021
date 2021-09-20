@@ -117,7 +117,7 @@ kable(t(scale)) %>%
 The schedule is a dynamic document. While due dates for exams are, pending any university-wide mandates, fixed, all other dates and content are subject to change. Please monitor the announcements in Canvas for the latest updates. Our working schedule may be found at https://bit.ly/DataSciF2021Schedule.  Here is the schedule as of `r Sys.Date()`:
 
 
-<iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/1CY8rRAtz9-dt3yCvuiDT2ThDMLeX5OCXGfgRioL4rSs/edit?usp=sharing">
+<iframe width="800" height="600" src="https://docs.google.com/spreadsheets/d/1PV8xfHhd_cBTBfSotUXpKa2ctju_X_BmGru1IG_7dgc/edit?usp=sharing">
 
 </iframe>
 
@@ -153,7 +153,7 @@ Again, please see https://bit.ly/DataSciF2021Schedule for the latest updates.
 
 **counseling and psychological services (CAPS) center:** Life as a university student can be challenging physically, mentally and emotionally. Students who find stress negatively affecting their ability to achieve academic or personal goals may wish to consider utilizing FAU's Counseling and Psychological Services (CAPS) Center. CAPS provides FAU students a range of services -- individual counseling, support meetings, and psychiatric services, to name a few -- offered to help improve and maintain emotional well-being. For more information, go to \_[*http://www.fau.edu/counseling/*](http://www.fau.edu/counseling/).
 
-***COVID-19 statement:*** All students in face-to-face classes are ~~required~~ (expected, recommended) to wear masks during class and at other times while indoors. Taking these measures supports the safety and protection of the FAU community. Students experiencing flu-like symptoms (fever, cough, shortness of breath), or students who have come in contact with an infected person should immediately contact FAU Student Health Services ([561-297-3512](tel:561-297-3512))..
+***COVID-19 statement:*** *Due to the surge in COVID-19 cases and the delta variant, all students regardless of vaccination status are expected to wear masks while indoors in any FAU facilities, including classrooms and laboratories. Students experiencing flu-like symptoms (fever, cough, shortness of breath), or students who have come in contact with confirmed positive cases of COVID-19, should immediately contact FAU Student Health Services (561-297-3512). Symptomatic students will be asked to leave the classroom to support the safety and protection of the university community. For additional information visit* [*https://www.fau.edu/coronavirus/*](https://www.fau.edu/coronavirus/) *In classes with face-to-face components, quarantined or isolated students should notify me immediately as you will not be able to attend class. I will not be able to offer an online version of the class but will make reasonable efforts to assist students in making up the work. Vaccinated students have much lower chances of needing to quarantine and a much lower chance of missing class time.* 
 
 ## Additional references
 
